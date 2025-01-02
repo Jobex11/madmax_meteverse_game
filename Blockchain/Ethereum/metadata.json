@@ -1,0 +1,7 @@
+{
+  "name": "MyToken",
+  "symbol": "MTK",
+  "description": "An ERC-20 token deployed on Sepolia testnet.",
+  "image": "https://example.com/token-image.png",
+  "website": "https://mytoken.example.com"
+}
